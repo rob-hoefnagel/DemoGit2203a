@@ -5,6 +5,7 @@ public class demo {
             // strongly typed
             new fiets ();
             System.out.println("rare");
+            System.out.println("fase");
 
         }
     }
