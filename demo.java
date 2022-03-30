@@ -4,6 +4,7 @@ public class demo {
             // variable
             // strongly typed
             new fiets ();
+            System.out.println("rare");
 
         }
     }
