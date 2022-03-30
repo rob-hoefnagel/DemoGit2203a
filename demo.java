@@ -6,6 +6,7 @@ public class demo {
             new fiets ();
             System.out.println("rare");
             System.out.println("fase");
+            System.out.println("fase");
 
         }
     }
